@@ -1,0 +1,38 @@
+2022-12-20 07:56:37,782:INFO:Number of days back are 7
+2022-12-20 07:56:37,782:INFO:We are pulling data from 2022-12-13 till 2022-12-20
+2022-12-20 07:56:39,739:INFO:The shape of the pulse df is 20
+2022-12-20 07:56:40,350:INFO:The shape of the pulse df is 21
+2022-12-20 07:56:40,352:INFO:The total shape of all Pulses from AlientVault is 21
+2022-12-20 07:56:40,377:INFO:The pulse_df file has been saved!
+2022-12-20 07:56:40,378:INFO:
+
+2022-12-20 07:56:40,396:INFO:                         id                                       name                                        description author_name                    modified                     created  revision    tlp  public adversary                                         indicators                                               tags targeted_countries malware_families                                         attack_ids                                         references industries extract_source  more_indicators
+0  637788c57847460846a888a3  Technical Analysis of the RedLine Stealer  RedLine is an information stealer which operat...  AlienVault  2022-12-18T13:03:29.810000  2022-11-18T13:29:41.146000         1  white       1            [{'id': 3247832364, 'indicator': 'santaanareal...  [redline, stealer, spyware, regsvcs, crypto wa...                 []        [RedLine]  [T1113, T1059, T1140, T1036, T1055, T1105, T10...  [https://cloudsek.com/technical-analysis-of-th...   [Crypto]             []            False
+2022-12-20 07:56:40,397:INFO:
+
+2022-12-20 07:56:40,397:INFO:Successfully imported pulse df.
+2022-12-20 07:56:40,398:INFO:The size of the df is 21
+2022-12-20 07:56:40,407:INFO:The row is 1 and total rows in the otx_df are 34
+2022-12-20 07:56:40,412:INFO:The row is 2 and total rows in the otx_df are 43
+2022-12-20 07:56:40,416:INFO:The row is 3 and total rows in the otx_df are 75
+2022-12-20 07:56:40,421:INFO:The row is 4 and total rows in the otx_df are 263
+2022-12-20 07:56:40,425:INFO:The row is 5 and total rows in the otx_df are 309
+2022-12-20 07:56:40,429:INFO:The row is 6 and total rows in the otx_df are 347
+2022-12-20 07:56:40,433:INFO:The row is 7 and total rows in the otx_df are 422
+2022-12-20 07:56:40,438:INFO:The row is 8 and total rows in the otx_df are 430
+2022-12-20 07:56:40,442:INFO:The row is 9 and total rows in the otx_df are 452
+2022-12-20 07:56:40,445:INFO:The row is 10 and total rows in the otx_df are 485
+2022-12-20 07:56:40,448:INFO:The row is 11 and total rows in the otx_df are 637
+2022-12-20 07:56:40,450:INFO:The row is 12 and total rows in the otx_df are 665
+2022-12-20 07:56:40,453:INFO:The row is 13 and total rows in the otx_df are 690
+2022-12-20 07:56:40,455:INFO:The row is 14 and total rows in the otx_df are 721
+2022-12-20 07:56:40,457:INFO:The row is 15 and total rows in the otx_df are 724
+2022-12-20 07:56:40,461:INFO:The row is 16 and total rows in the otx_df are 762
+2022-12-20 07:56:40,464:INFO:The row is 17 and total rows in the otx_df are 800
+2022-12-20 07:56:40,466:INFO:The row is 18 and total rows in the otx_df are 810
+2022-12-20 07:56:40,468:INFO:The row is 19 and total rows in the otx_df are 824
+2022-12-20 07:56:40,470:INFO:The row is 20 and total rows in the otx_df are 828
+2022-12-20 07:56:40,488:INFO:The otx_df file has been saved!
+2022-12-20 07:56:40,493:INFO:
+
+2022-12-20 07:56:40,493:INFO:No errors! The total execution time is 2.71067476272583 seconds.
